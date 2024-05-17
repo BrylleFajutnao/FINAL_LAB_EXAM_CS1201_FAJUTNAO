@@ -1,6 +1,0 @@
-Bienoo,0
-Bienoo,18
-Bienoo,3
-Bienoo,0
-Bienoo,6
-TEST,0
